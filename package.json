@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MinhTuan2405/algorithms.git"
+    "url": "git+https://github.com/MinhTuan2405/datastructure4ndalgorithms.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MinhTuan2405/algorithms/issues"
+    "url": "https://github.com/MinhTuan2405/datastructure4ndalgorithms/issues"
   },
-  "homepage": "https://github.com/MinhTuan2405/algorithms#readme"
+  "homepage": "https://github.com/MinhTuan2405/datastructure4ndalgorithms#readme"
 }
