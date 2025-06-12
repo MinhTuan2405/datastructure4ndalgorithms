@@ -1,5 +1,3 @@
-from time import sleep
-from turtle import position
 from typing import Optional
 
 class Node:
@@ -168,7 +166,7 @@ class LinkedList:
 
         self.tail = self.head
         self.head = prev
-        
+
 if __name__ == "__main__":
     ll = LinkedList()
     for val in [0, 8, 1, 8, 2, 3, 8, 4, 8]:
