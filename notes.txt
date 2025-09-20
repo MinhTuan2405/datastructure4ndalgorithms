@@ -1,0 +1,5 @@
+=if (điều kiện, giá trị nếu đúng)
+
+=if (RIGHT (b2) = "T", "Toán",
+if (RIGHT (b2) = "L", "lý",
+if (RIGHT (b2) = "H", "hóa)))
